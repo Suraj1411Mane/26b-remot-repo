@@ -1,1 +1,22 @@
-
+git status
+ls -l
+git log
+git log --all
+git add<file name>
+git commit -m "message" <file name>
+git revert<commit name>
+git status
+git checkout<file name>
+vagrant up
+vagrant ssh
+sudo su
+pwd
+git config --list
+git config --global user.name
+git config --global user.email
+touch file
+vi <file name>
+git show
+git oneline
+git reset<commit id>
+git show <commit id>
