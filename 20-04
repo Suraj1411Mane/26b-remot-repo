@@ -1,0 +1,55 @@
+-----------------------------------today 20-04-2023-----------------------------------------
+i learn -- what is cloud
+what is AWS
+what is CI/CD
+what is build
+what is plug-in
+how ci/cd work
+What is jenkin
+How Jenkins is working
+----------------------------------------------------------------------------------------
+what is CI
+---> continuous Intigration ---intrgration mean join
+developers write a code and send to github remote repository the code size was be 50k something like that then it will be build after few day after few day it will be text and budge get then it will go to developers so it is very time consumer and hectic 
+
+ci comes into this process
+develoopre write the cede it goese github the ci upcub the code and send to build it build done then it will send to test if test done then it send to deploy 
+developer ---code----github----build----test---doploy
+
+-----------------------------------------------------------------------------------------------------
+what is cloude 
+cloude is accesseble resource on demand
+resource like be any thing like image video software ex google cloud
+gmail
+we will get resource from any time from any where
+------------------------------------------------
+what is AWS
+Amazon web service srated at 2004 as Amzon cloud
+then it was sepretade as as AWS on 2006
+intially the percentage was 80%
+now it hold market 58% 
+it provide IAAS PAAS SAAS  means Ifrastructure as service, Platform as a service Softwate as a service
+
+-------------------------------------------------------------------------------
+wha t is build
+--> compile code revive code testing happen into build
+-----------------------------------------------------------
+what is plug in--
+it help to attch jenking like github cheff salenuium
+---------------------------------------------------
+What is jenkins----
+Jenkin is a heart of devops 
+it has a lot off plug-in we can customise plug-in 
+jenkin has a community support 
+we can take help plug -in from community
+it a open source 
+plugin helps to connect with jenkins
+hudsone is pay and use version of jenkin
+--------------------------------------------------------
+how jenkin is work
+--> developer write a code then jenkins pull that code and send to build<maven> build is done then then jenking pull this code and send to test<salenium> once test is done then jenking pull this code and deploy if find the bugg then it send to devoloper at that time is a schedule process meas we can set fix time like after 4 hrs 1 day 1 weekso at that time it will pickup and send to pipline and give feedback to developer 
+it a autoatic procces
+but some one not want to do automatic testing the we can mnage it also
+-------------------------------------------------
+
+
