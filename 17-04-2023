@@ -33,3 +33,4 @@ it used to see the changes between wc and ca
 it means we can see the changes after git add
 and before git commit
 ---------------------------------------------
+checking git diff
