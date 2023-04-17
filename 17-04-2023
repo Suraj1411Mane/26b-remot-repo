@@ -26,4 +26,10 @@ git deff
 checking cat and diff both are same or not
 
 both command are same working
-
+---------------------------------------------------------------
+git diff command
+-------------------------------------------------------
+it used to see the changes between wc and ca
+it means we can see the changes after git add
+and before git commit
+---------------------------------------------
