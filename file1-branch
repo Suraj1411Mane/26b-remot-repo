@@ -1,0 +1,21 @@
+how to crreate a branch
+1 git brnach 
+git brnach devops
+git checkout main
+git merge
+git status
+------------------------------------------------------
+how to write afile into brnach
+-------------------------------------------------
+1 git checkout devops
+2 vi file 
+3 add message
+4 git add devops
+5 git commit -m" adding msg" file
+6 git status
+7 git checkout main
+8 git merge devops
+9 git pull
+10 git push
+11 git status
+------------------------------------------------------
