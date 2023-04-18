@@ -1,0 +1,43 @@
+What is Maven
+Maven is build tool
+build tool used for syntex check mean error or it find the erro
+for java maven is build tool
+configure file for maven is Build =POM.xml
+used in pipline end to end working
+
+---------------------
+
+what is POM .XML
+its configure file 
+project object model
+also it called build file
+
+-----------------------------------------------------
+maven is bild tool
+developer push the code on sorce code mangement tool is gitub then jenkins pull that code and send for build on maven, maven chcks syntax fo this code and is its succefully done then send fot test which is selenium
+---------------------------------------------------------
+how to statrt jenkins
+
+java -jae jenkins.war
+
+-------------------------
+by default java opening window is
+localhost:8080
+=============================================
+how to open customise 8090 java window
+java -jar jenkins.war --httpPort:8089
+=======================================
+for java used maven as a build tool
+====================
+how many types of build tool
+2 types--1 specific and multiple language tool
+-====================================
+how to creat build
+sample --->configuration ----> save
+===============================
+how to find information of build tool
+build history----->open build--------> console build 
+-=========================================
+what we find in consol
+user details, which coed written sattus and all
+===================================
